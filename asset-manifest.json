@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/olailliams/monsters-rolodex/static/css/main.1d35d35d.chunk.css",
+    "main.js": "/olailliams/monsters-rolodex/static/js/main.cb6282d3.chunk.js",
+    "main.js.map": "/olailliams/monsters-rolodex/static/js/main.cb6282d3.chunk.js.map",
+    "runtime-main.js": "/olailliams/monsters-rolodex/static/js/runtime-main.d94bde98.js",
+    "runtime-main.js.map": "/olailliams/monsters-rolodex/static/js/runtime-main.d94bde98.js.map",
+    "static/js/2.1f3314c8.chunk.js": "/olailliams/monsters-rolodex/static/js/2.1f3314c8.chunk.js",
+    "static/js/2.1f3314c8.chunk.js.map": "/olailliams/monsters-rolodex/static/js/2.1f3314c8.chunk.js.map",
+    "index.html": "/olailliams/monsters-rolodex/index.html",
+    "precache-manifest.d89a14587dae82f1c18a5316072e3493.js": "/olailliams/monsters-rolodex/precache-manifest.d89a14587dae82f1c18a5316072e3493.js",
+    "service-worker.js": "/olailliams/monsters-rolodex/service-worker.js",
+    "static/css/main.1d35d35d.chunk.css.map": "/olailliams/monsters-rolodex/static/css/main.1d35d35d.chunk.css.map",
+    "static/js/2.1f3314c8.chunk.js.LICENSE.txt": "/olailliams/monsters-rolodex/static/js/2.1f3314c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d94bde98.js",
+    "static/js/2.1f3314c8.chunk.js",
+    "static/css/main.1d35d35d.chunk.css",
+    "static/js/main.cb6282d3.chunk.js"
+  ]
+}
